@@ -1,4 +1,4 @@
-### Salut c'est serdi 👋
+### Salut <img src="https://github.com/serdiDev/serdiDev/blob/e96d637cd2c9c866a0e79139cfae52de81e7f5f1/hi.gif" width="25" height="25"/> c'est serdi
 
 <!--
 **serdiDev/serdiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
