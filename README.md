@@ -1,4 +1,4 @@
-### Hi there 👋
+### Salut c'est serdi 👋
 
 <!--
 **serdiDev/serdiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
