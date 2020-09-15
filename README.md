@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
   - **Langages**: Javascript
 
-  - **OS**: Windows 10, Linux ( Arch/EndeavoursOs )
+  - **SE**: Windows 10, Linux ( Arch/EndeavoursOs )
 
   - **SGBD**: PostgreSQL, MySQL
 
