@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🛠 Langages & technologies
 
-**Langages**: Javascript
+  - **Langages**: Javascript
 
   - **OS**: Windows 10, Linux ( Arch/EndeavoursOs )
 
