@@ -32,9 +32,9 @@ Here are some ideas to get you started:
   - **Outils**: git, docker ( développement )
 
 ### 📫 Réseaux sociaux
-- [Twitter](https://twitter.com/serdiDev)
-- [GitLab](https://gitlab.com/serdiDev)
-- Discord: serdiDev 🦁#4460
+  [![Twitter Follow](https://img.shields.io/twitter/follow/serdiDev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/serdiDev)
+  [![Github Follow](https://img.shields.io/github/followers/serdiDev?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/serdiDev)
+  [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=serdiDev 🦁%234460&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 ### 🏆 Passe-Temps
 - 🏀 Basketball
