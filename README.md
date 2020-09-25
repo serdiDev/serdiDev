@@ -30,14 +30,14 @@ Here are some ideas to get you started:
     - Frontend: React, Tailwind Css
 
   - **Outils**: git, docker ( développement )
+  
+### 🏆 Passe-Temps
+
+  - Basketball
+  - Volley-ball
 
 ### 📫 Réseaux sociaux
+
   [![Twitter Follow](https://img.shields.io/twitter/follow/serdiDev?color=%231DA1F2&label=Follow%20me&logo=Twitter&style=for-the-badge)](https://twitter.com/serdiDev)
   [![Github Follow](https://img.shields.io/github/followers/serdiDev?color=000000&label=My%20Github&logo=Github&style=for-the-badge)](https://github.com/serdiDev)
   [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=serdiDev%234460&color=7289DA&logo=Discord&style=for-the-badge)]()
-
-### 🏆 Passe-Temps
-- Basketball
-- Volley-ball
-
- 
