@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   [![Discord Follow](https://img.shields.io/static/v1?label=Discord&message=serdiDev%234460&color=7289DA&logo=Discord&style=for-the-badge)]()
 
 ### 🏆 Passe-Temps
-- 🏀 Basketball
-- 🏐 Volley-ball
+- Basketball
+- Volley-ball
 
  
